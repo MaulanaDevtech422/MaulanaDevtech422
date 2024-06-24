@@ -18,7 +18,7 @@ Halo! Saya [Nama Anda], seorang Web Developer dan Designer yang berfokus pada pe
 - Berkolaborasi dengan tim desain untuk menciptakan pengalaman pengguna yang optimal.
 - Mengimplementasikan praktik terbaik dalam pengembangan web untuk memastikan kualitas kode.
 
-### [Perusahaan B] - Web Designer
+### [Freelance] - Web Designer
 
 - Merancang antarmuka pengguna yang intuitif dan responsif untuk aplikasi web.
 - Bekerja sama dengan pengembang untuk memastikan desain diimplementasikan dengan baik.
