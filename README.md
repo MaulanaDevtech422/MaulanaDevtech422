@@ -28,11 +28,11 @@ Halo! Saya [Nama Anda], seorang Web Developer dan Designer yang berfokus pada pe
 
 ### [NetWeb5]
 - **Deskripsi**: Mengembangkan platform e-commerce dengan fitur-fitur canggih untuk pengalaman belanja online yang lebih baik.
-- **Teknologi**: React, Node.js, MongoDB
+- **Teknologi**: React, Node.js, MongoDB.
 
 ### [amanahstore2]
 - **Deskripsi**: Merancang ulang website jual beli produk elektronik agar dapat terintegrasi dengan baik kepada customer.
-- **Teknologi**: Figma, WordPress, PHP
+- **Teknologi**: Figma, WordPress, javascript.
 
 ## Kontak
 
