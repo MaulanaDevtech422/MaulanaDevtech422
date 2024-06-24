@@ -2,7 +2,7 @@
 
 ## Profil
 
-Halo! Saya [Nama Anda], seorang Web Developer dan Designer yang berfokus pada pembuatan website yang fungsional dan menarik secara visual. Dengan pengalaman bertahun-tahun di industri ini, saya telah membantu berbagai klien mencapai tujuan digital mereka melalui solusi kreatif dan teknis.
+Halo Nama saya maulanDevtech, seorang Web Developer dan Designer yang berfokus pada pembuatan website yang fungsional dan menarik secara visual. Dengan pengalaman bertahun-tahun di industri ini, saya telah membantu berbagai klien mencapai tujuan digital mereka melalui solusi kreatif dan teknis.
 
 ## Keahlian
 
