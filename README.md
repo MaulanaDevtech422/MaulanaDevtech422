@@ -30,8 +30,8 @@ Halo! Saya [Nama Anda], seorang Web Developer dan Designer yang berfokus pada pe
 - **Deskripsi**: Mengembangkan platform e-commerce dengan fitur-fitur canggih untuk pengalaman belanja online yang lebih baik.
 - **Teknologi**: React, Node.js, MongoDB
 
-### [Nama Proyek 2]
-- **Deskripsi**: Merancang ulang website perusahaan untuk meningkatkan keterlibatan pengguna dan konversi.
+### [amanahstore2]
+- **Deskripsi**: Merancang ulang website jual beli produk elektronik agar dapat terintegrasi dengan baik kepada customer.
 - **Teknologi**: Figma, WordPress, PHP
 
 ## Kontak
